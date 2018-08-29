@@ -1,0 +1,24 @@
+{
+  "name": "@dumplings/get-array",
+  "version": "0.0.1",
+  "description": "A module to return an array.",
+  "main": "index.js",
+  "scripts": {
+    "standard": "standard --fix",
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumplings/getArray.git"
+  },
+  "author": "dumplings0415@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dumplings/getArray/issues"
+  },
+  "homepage": "https://github.com/dumplings/getArray#readme",
+  "devDependencies": {
+    "standard": "*",
+    "tape": "^4.9.1"
+  }
+}

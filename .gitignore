@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# IDEA files
+.idea
+
+# OSX files
+.DS_Store

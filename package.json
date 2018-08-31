@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "A module to return an array.",
   "main": "index.js",
+  "type": "index.d.ts",
   "scripts": {
     "standard": "standard --fix",
     "test": "tape test/*.js"
@@ -16,6 +17,12 @@
   "bugs": {
     "url": "https://github.com/dumplings/getArray/issues"
   },
+  "keywords": [
+    "getArray",
+    "get-array",
+    "array",
+    "not a function"
+  ],
   "homepage": "https://github.com/dumplings/getArray#readme",
   "devDependencies": {
     "standard": "*",

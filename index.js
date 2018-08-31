@@ -1,1 +1,3 @@
-module.exports = array => Array.isArray(array) ? array : []
+module.exports = function (array) {
+  return Array.isArray(array) ? array : []
+}

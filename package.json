@@ -1,6 +1,6 @@
 {
   "name": "@dumplings/get-array",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A module to return an array.",
   "main": "index.js",
   "type": "index.d.ts",

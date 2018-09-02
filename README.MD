@@ -1,6 +1,7 @@
 # get-array
 [![NPM](https://img.shields.io/npm/v/@dumplings/get-array.svg)](https://www.npmjs.org/package/@dumplings/get-array)
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 
 A small module to return an array.
 
